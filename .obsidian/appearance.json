@@ -1,0 +1,33 @@
+{
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "【卡片视图】zettelkasten",
+    "【卡片视图】cards",
+    "【日记】periodic日历",
+    "【日记】Time",
+    "【日记】timeline",
+    "【天气】weather",
+    "【图标】双链图标",
+    "【图标】预览网址加图标 - External Link Icons",
+    "【图标】iconfont",
+    "【图标】checkbox",
+    "【自定义】表格样式TableStyles",
+    "【自定义】彩色时钟样式",
+    "【自定义】多彩进度条",
+    "【自定义】myhome 样式",
+    "【Linkcard】",
+    "【Memos】Popover",
+    "【Query】keep-live",
+    "custom-admonitions.c9c6cb",
+    "【列表】ob列表转换表格",
+    "【背景】默认笔记背景",
+    "【特效】fireworks",
+    "【自定义】数字时钟",
+    "【FONT】Consolas-Bookerly",
+    "【自定义】mytools 样式",
+    "【分栏】Easy multi-column notes",
+    "【callout】Custom page preview"
+  ],
+  "accentColor": "#2894d7"
+}
