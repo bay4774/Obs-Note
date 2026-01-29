@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-业余爱好/3D打印技术.md",
+                "file": "03-业余爱好/机械制图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3D打印技术"
+              "title": "机械制图"
             }
           }
         ]
@@ -221,7 +221,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -238,13 +238,14 @@
   },
   "active": "7745e23dd76659da",
   "lastOpenFiles": [
+    "03-业余爱好/SolidWorks制图软件的使用.md",
+    "03-业余爱好/AutoCAD制图软件的使用.md",
+    "03-业余爱好/机械制图.md",
+    "03-业余爱好/非标机械设计.md",
+    "03-业余爱好/3D打印技术.md",
+    "03-业余爱好/Blender软件的使用.md",
     "README.md",
     "新建文本文档.txt",
-    "03-业余爱好/非标机械设计.md",
-    "03-业余爱好/CAD制图软件的使用.md",
-    "03-业余爱好/3D打印技术.md",
-    "03-业余爱好/机械制图.md",
-    "03-业余爱好/Blender软件的使用.md",
     "03-业余爱好/Blender软件的使用-2.blend",
     "03-业余爱好/键盘.blend@",
     "存储/机械制图-2.png",
@@ -276,7 +277,6 @@
     "日记/2025-07-18.md",
     "日记/2025-07-29.md",
     "日记/2025-07-28.md",
-    "日记/2025-07-25.md",
     "88-Template/tp",
     "88-Template/script/template/taskprogress.js"
   ]
